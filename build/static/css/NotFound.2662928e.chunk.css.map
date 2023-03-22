@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/NotFound.2662928e.chunk.css","mappings":"AAAA,2BAGE,cACA,gBAHA,cACA,iBAEA","sources":["componets/NotFound/NotFoundBlock.module.scss"],"sourcesContent":[".root {\n  padding: 100px;\n  text-align: center;\n  margin: 0 auto;\n  max-width: 750px;\n}\n"],"names":[],"sourceRoot":""}
